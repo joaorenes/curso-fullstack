@@ -150,18 +150,15 @@ body {
 }
 
 .icone,
-.icone-contato{
-    font-size: 48px;
-}
-
-.icone{
-    color: #fff;
-}
 .icone-contato {
-
+    font-size: 48px;
     color: #5a7282;
 }
 
+.icone-logo{
+    color: #fff;
+    font-size: 48px;
+}
 
 .citacao {
     padding-top: 50px;
