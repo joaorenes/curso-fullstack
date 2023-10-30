@@ -150,8 +150,15 @@ body {
 }
 
 .icone,
-.icone-contato {
+.icone-contato{
     font-size: 48px;
+}
+
+.icone{
+    color: #fff;
+}
+.icone-contato {
+
     color: #5a7282;
 }
 
